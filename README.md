@@ -1,0 +1,1 @@
+Second project of the data structures course where a huffman tree was built in order to reduce the space that a characters of strings ocupies in a memory. My contributions can be found in HuffmanCoding.java located in src/p2.
